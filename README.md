@@ -1,9 +1,9 @@
-Java 8: The Missing Tutorial
+All About Java 8
 --------------
 
 Java 8 is not a new topic anymore. There are many good books published on it. Still I meet many Java developers unaware of the power of Java 8. The goal of this microbook is to cover some of the most important Java 8 features and how they can help developers in their day to day programming.
 
-## Contributing to the Java 8: The Missing Tutorial
+## Contributing to the All About Java 8
 
 Please contribute if you see an error or something that could be better! Raise an [issue](https://github.com/himankbatra/all_about_java8/issues) or send me a pull request to improve. Contributions of all kinds, including corrections
 , additions, improvements, and translations, are welcome!
